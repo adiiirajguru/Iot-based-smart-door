@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL3XVw4EHqF"
+#define BLYNK_TEMPLATE_ID "temp id here"
 #define BLYNK_TEMPLATE_NAME "Smart Door"
-#define BLYNK_AUTH_TOKEN "SlspTRYq_Oun1CONo_F4XZ-Hc2ryGbC-"
+#define BLYNK_AUTH_TOKEN "token here"
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
